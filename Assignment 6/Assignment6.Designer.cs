@@ -75,9 +75,8 @@
             this.lblFinal.AutoSize = true;
             this.lblFinal.Location = new System.Drawing.Point(115, 336);
             this.lblFinal.Name = "lblFinal";
-            this.lblFinal.Size = new System.Drawing.Size(46, 17);
+            this.lblFinal.Size = new System.Drawing.Size(0, 17);
             this.lblFinal.TabIndex = 7;
-            this.lblFinal.Text = "label3";
             // 
             // Assignment6
             // 
